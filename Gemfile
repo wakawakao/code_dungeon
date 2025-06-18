@@ -9,7 +9,7 @@ gem "puma", ">= 5.0"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 gem "redis", "~> 5.1"
-gem "sidekiq", "~> 7.2"
+gem "sidekiq", "~> 8.0"
 gem "dotenv-rails", groups: [:development, :test]
 # Use Active Model has_secure_password [https://guides.rubyonrails.org/active_model_basics.html#securepassword]
 # gem "bcrypt", "~> 3.1.7"
